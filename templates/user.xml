@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="itamap" value="for (Map.Entry&lt; $KEY$, $VALUE$&gt; $VAR$ :  $COLLECTION$.entrySet() ) {&#10;  $END$&#10;}" description="Java Map itor" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="&quot;K&quot;" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;V&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="&quot;each&quot;" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

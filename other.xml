@@ -1,0 +1,107 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="MyProject">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DefaultFileTemplate</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="StrutsConfiguration">
+    <option name="autoscrollToSource" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.2.98/svn/anytracking6_0/" />
+        <option value="http://192.168.2.98" />
+        <option value="https://192.168.2.98/svn/apps" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.2.98/svn/anytracking6_0/" />
+        <option value="http://192.168.2.98" />
+        <option value="https://192.168.2.98/svn/apps" />
+        <option value="svn://192.168.16.166/hhq/trunk/server/hhq" />
+        <option value="svn://192.168.16.166/hhq/trunk/server/hhqweb" />
+        <option value="svn://192.168.16.166/hhq/trunk/server/socket_server" />
+        <option value="svn://192.168.16.166/hhq/trunk/client/aikesiproj" />
+        <option value="svn://192.168.1.166/hhq/trunk/server/hhqweb" />
+        <option value="svn://192.168.1.166/hhq/trunk/hhqweb" />
+        <option value="svn://192.168.1.166/hhq/trunk/server/hhq" />
+        <option value="svn://192.168.1.166/hhq/trunk/server/socket_server" />
+        <option value="svn://192.168.1.166/hhq/trunk/client/aikesiproj" />
+        <option value="svn://192.168.0.166/hhq/trunk/client/aikesiproj" />
+        <option value="svn://192.168.0.166/hhq/trunk/server/hhq" />
+        <option value="svn://192.168.0.166/hhq/trunk/server/socket_server" />
+        <option value="svn://192.168.0.166/hhq/server/socket_server" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
